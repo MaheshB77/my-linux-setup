@@ -13,7 +13,7 @@
 3. Load frequent apps faster
     - `sudo apt install preload`
 4. Add gnome tweak tools
-    - `sudo apt install gnome-tweak-tool`
+    - `sudo apt install gnome-tweaks`
 5. Numix Theme and Icons
     - `sudo add-apt-repository ppa:numix/ppa`
     - `sudo apt-get update`
