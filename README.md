@@ -10,7 +10,7 @@
         - Restart the VM
 2. Media codecs
     - `sudo apt install ubuntu-restricted-extras`
-3. Load frequent apps faster
+3. Load frequently used apps faster
     - `sudo apt install preload`
 4. Add gnome tweak tools
     - `sudo apt install gnome-tweaks`
