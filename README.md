@@ -18,3 +18,12 @@
     - `sudo add-apt-repository ppa:numix/ppa`
     - `sudo apt-get update`
     - `sudo apt-get install numix-gtk-theme numix-icon-theme-circle`
+
+> **Change some default softwares**
+1. Install zsh (refer https://youtu.be/Vj54klRlwIE)
+    - sudo apt-get update
+    - sudo apt-get install zsh
+    - sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    - Restart terminal
+    - chsh -s $(which zsh)
+    - Restart the machine
