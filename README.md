@@ -18,6 +18,8 @@
     - `sudo add-apt-repository ppa:numix/ppa`
     - `sudo apt-get update`
     - `sudo apt-get install numix-gtk-theme numix-icon-theme-circle`
+6. Install fira code font
+    - `sudo apt install fonts-firacode`
 
 > **Change some default softwares**
 1. Install zsh (refer https://youtu.be/Vj54klRlwIE)
